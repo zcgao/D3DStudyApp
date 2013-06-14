@@ -6,3 +6,11 @@ d:\Documents\Visual Studio 2008\Projects\studyDX\studyDX\bin\Debug\studyDX.pdb
 d:\Documents\Visual Studio 2008\Projects\studyDX\studyDX\obj\Debug\studyDX.exe
 d:\Documents\Visual Studio 2008\Projects\studyDX\studyDX\obj\Debug\studyDX.pdb
 d:\Documents\Visual Studio 2008\Projects\studyDX\studyDX\obj\Debug\studyDX.Form1.resources
+D:\Documents\GitHub\d3dXFile\studyDX\bin\Debug\studyDX.exe
+D:\Documents\GitHub\d3dXFile\studyDX\bin\Debug\studyDX.pdb
+D:\Documents\GitHub\d3dXFile\studyDX\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents\GitHub\d3dXFile\studyDX\obj\Debug\studyDX.Properties.Resources.resources
+D:\Documents\GitHub\d3dXFile\studyDX\obj\Debug\studyDX.csproj.GenerateResource.Cache
+D:\Documents\GitHub\d3dXFile\studyDX\obj\Debug\studyDX.exe
+D:\Documents\GitHub\d3dXFile\studyDX\obj\Debug\studyDX.pdb
+D:\Documents\GitHub\d3dXFile\studyDX\obj\Debug\studyDX.mainForm.resources
